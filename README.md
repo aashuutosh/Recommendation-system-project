@@ -1,7 +1,7 @@
 #README.md
 
 ## Overview
-A hybrid recommender combining Collaborative Filtering (SVD) and Content-Based (TF-IDF genres) approaches. Includes training pipeline, evaluation, and a Flask API for serving recommendations.
+A hybrid recommender combining Collaborative Filtering (SVD) and Content-Based (TF-IDF genres) approaches. Includes training pipeline, evaluation, and a Flask API for serving recommendations
 
 ## Features
 - SVD-based collaborative filtering (Surprise)
